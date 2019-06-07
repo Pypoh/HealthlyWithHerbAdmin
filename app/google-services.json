@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "973482023617",
+    "firebase_url": "https://healthyherb-6c168.firebaseio.com",
+    "project_id": "healthyherb-6c168",
+    "storage_bucket": "healthyherb-6c168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973482023617:android:9c072a3382eb742e",
+        "android_client_info": {
+          "package_name": "com.example.pypoh.healthlywithherb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973482023617-rb30sutvtj5cd791akbcp9hoi13i7k20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pypoh.healthlywithherb",
+            "certificate_hash": "97a422e3a697aaa5d8e93a0943de72f065e0d850"
+          }
+        },
+        {
+          "client_id": "973482023617-th8fv3h43s936hlqaqe85s2gifjmhcco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIHxEUCI0xGj3xId3oxW569Cv1hKGDmdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973482023617-th8fv3h43s936hlqaqe85s2gifjmhcco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973482023617:android:68489b594585e7ba",
+        "android_client_info": {
+          "package_name": "com.example.pypoh.healthlywithherbadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973482023617-646mq3dejupnkkstpgd91p8ubcr7bmhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pypoh.healthlywithherbadmin",
+            "certificate_hash": "97a422e3a697aaa5d8e93a0943de72f065e0d850"
+          }
+        },
+        {
+          "client_id": "973482023617-th8fv3h43s936hlqaqe85s2gifjmhcco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIHxEUCI0xGj3xId3oxW569Cv1hKGDmdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973482023617-th8fv3h43s936hlqaqe85s2gifjmhcco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
